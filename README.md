@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soban Lone</h1>
-<h3 align="center">Masters(Research) at IIT, Delhi.</h3>
+<h3 align="center">Master's(Research) at IIT, Delhi.</h3>
 
 I’m currently working on **Variational Inference for Structural Dynamics**
 
