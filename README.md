@@ -1,7 +1,7 @@
 
 <div align="center" style="background-color: #f0f0f0; padding: 20px;">
     <h1>Hi 👋, I'm Soban Lone</h1>
-    <h3>Master's(Research) at IIT, Delhi.</h3>
+    <h3>Master's (Research) at IIT, Delhi.</h3>
 </div>
 
 I’m currently working on **Variational Inference for Structural Dynamics**
